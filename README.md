@@ -1,4 +1,4 @@
-🥋 CodeWars Solutions
+## 🥋 CodeWars Solutions
 
 Python solutions to Codewars challenges. Clean code, optimized algorithms, and daily practice to sharpen problem-solving skills.
 
@@ -31,7 +31,7 @@ Problems Solved: 1+ (updating daily)
 
 | Problem | Difficulty | Concepts | Solution |
 |---------|------------|----------|----------|
-| Multiples of 3 or 5 | 6 kyu | Math, Optimization | [View](./Problem1-Multiples_of_3_or_5-6kyu/solution.py) |
+| Multiples of 3 or 5 | 6 kyu | Math, Optimization | [View](./Problem1-Multiples_of_3_or_5-6kyu/) |
 
 ---
 
