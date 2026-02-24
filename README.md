@@ -1,4 +1,5 @@
 🥋 CodeWars Solutions
+
 Python solutions to Codewars challenges. Clean code, optimized algorithms, and daily practice to sharpen problem-solving skills.
 
 CodeWars Python
