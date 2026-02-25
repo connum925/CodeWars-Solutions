@@ -16,8 +16,8 @@ This repository showcases my coding journey through Codewars challenges. Each so
 ✅ **Problem-solving approach** with bilingual documentation  
 ✅ **Consistent practice** building strong coding fundamentals
 
-**Current Rank:** 6 kyu  
-**Problems Solved:** 1+ (updating daily)
+**Current Rank:** 8 kyu  
+**Problems Solved:** 2+ (updating daily)
 
 ---
 
@@ -39,7 +39,6 @@ This repository showcases my coding journey through Codewars challenges. Each so
 | Problem | Difficulty | Concepts | Solution |
 |---------|------------|----------|----------|
 | Multiples of 3 or 5 | 6 kyu | Math, Optimization | [View](./Problem1-Multiples_of_3_or_5-6kyu/IntuitiveSolution.py) |
-|---------|------------|----------|----------|
 | Isograms | 7 kyu | Strings, Fundamentals | [View](./Problem2-Isograms/Solution.py) |
 
 ---
